@@ -6,7 +6,7 @@ Online Quiz Application
 
 - Introduction
 - How Does TCP/IP Work?
-- The goal
+- Project's goal
 
 
 ## Introduction
@@ -21,7 +21,7 @@ TCP organizes data so that it can be transmitted between a server and a client. 
 The TCP/IP model was developed by the United States Department of Defense to enable the accurate and correct transmission of data between devices. It breaks messages into packets to avoid having to resend the entire message in case it encounters a problem during transmission. Packets are reassembled once they reach their destination. Every packet can take a different route between the source and the destination computer, depending on whether the original route used becomes congested or unavailable.
 
 
-## The goal
+## Project's goal
 
 In this project, we will implement a simple online quiz application using TCP/IP protocol, to understand the behavior of the TCP/IP protocol. We will develop two processes. One client process and other server process.
 
